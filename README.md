@@ -1,2 +1,5 @@
-# Linux-User-TipTricks
-Linux Tips &amp; Tricks
+# Linux Tips &amp; Tricks
+
+# Play a sound via the command line (can be used in scripts to notify completion)
+`paplay /usr/share/sounds/freedesktop/stereo/complete.oga`
+
